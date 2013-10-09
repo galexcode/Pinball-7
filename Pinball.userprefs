@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Ball.cs">
+    <Files>
+      <File FileName="..\Hack and Slash\Assets\Scripts\Character Classes\PlayerCharacter.cs" Line="1" Column="1" />
+      <File FileName="..\Hack and Slash\Assets\Scripts\Targetting.cs" Line="15" Column="9" />
+      <File FileName="..\Hack and Slash\Assets\Scripts\Mob.cs" Line="1" Column="1" />
+      <File FileName="..\Hack and Slash\Assets\Scripts\Character Classes\BaseStat.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraTrack.cs" Line="4" Column="25" />
+      <File FileName="Assets\Scripts\Ball.cs" Line="41" Column="4" />
+      <File FileName="Assets\Scripts\Bounce.cs" Line="15" Column="74" />
+      <File FileName="Assets\Scripts\Flipper\LeftFlipper.cs" Line="5" Column="12" />
+      <File FileName="Assets\Scripts\Flipper\RightFlipper.cs" Line="5" Column="21" />
+      <File FileName="Assets\Scripts\Flipper\Flipper.cs" Line="25" Column="28" />
+      <File FileName="Assets\Scripts\WallReflect.cs" Line="7" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
